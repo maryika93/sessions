@@ -1,0 +1,33 @@
+[
+  {
+    "crc" : "tipikinatestsonlycanberead"
+  },
+  {
+    "question": "Сколько минут в двух часах?",
+    "answer1": 60,
+    "answer2": 120,
+    "answer3": 180,
+    "true": 120
+  },
+  {
+    "question": "Сколько часов в 3 сутках?",
+    "answer1": 24,
+    "answer2": 48,
+    "answer3": 72,
+    "true": 72
+  },
+  {
+    "question": "Какой третий цвет в радуге?",
+    "answer1": "оранжевый",
+    "answer2": "жёлтый",
+    "answer3": "зелёный",
+    "true": "жёлтый"
+  },
+  {
+    "question": "Сколько времён года существует?",
+    "answer1": 2,
+    "answer2": 3,
+    "answer3": 4,
+    "true": 4
+  }
+]

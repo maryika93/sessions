@@ -1,0 +1,32 @@
+[
+  {
+    "login": "admin",
+    "password": "pass",
+    "username": "Администратор",
+    "is_admin": 1
+  },
+  {
+    "login": "user1",
+    "password": "pass1",
+    "username": "Петр",
+    "is_admin": 0
+  },
+  {
+    "login": "user2",
+    "password": "pass2",
+    "username": "Иван",
+    "is_admin": 0
+  },
+  {
+    "login": "user3",
+    "password": "pass3",
+    "username": "Мария",
+    "is_admin": 0
+  },
+  {
+    "login": "user4",
+    "password": "pass4",
+    "username": "Елена",
+    "is_admin": 0
+  }
+]
